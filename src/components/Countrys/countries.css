@@ -1,0 +1,10 @@
+.countryContainer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.flagContainer img {
+  height: 50px;
+  width: 50px;
+  background-size: cover;
+}

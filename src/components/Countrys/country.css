@@ -1,0 +1,22 @@
+.country {
+  border: 2px solid skyblue;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+}
+.country h4 {
+  margin-bottom: 20px;
+}
+.visitBtn {
+  padding: 6px 14px;
+  background-color: aquamarine;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.visited {
+  background-color: rgb(91, 157, 255);
+}
